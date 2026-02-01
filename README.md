@@ -95,6 +95,7 @@ notebooks/income_prediction_ml.ipynb
 ---
 
 ## Author
-**Shaafea Dawood**  
+**Muhammad Mujtaba Haider Naqvi**  
 Bachelor’s in Computer Science
+
 
