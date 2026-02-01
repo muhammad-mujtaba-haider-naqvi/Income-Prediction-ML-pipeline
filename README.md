@@ -79,7 +79,7 @@ The project follows a standard data science pipeline:
 
 ## How to Run the Project
 1. Clone the repository:
-git clone https://github.com/shaafeadawood/income-prediction-ml.git
+git clone https://github.com/muhammad-mujtaba-haider-naqvi/Income-Prediction-ML-pipeline
 
 
 2. Navigate to the project directory:
@@ -97,5 +97,6 @@ notebooks/income_prediction_ml.ipynb
 ## Author
 **Muhammad Mujtaba Haider Naqvi**  
 Bachelor’s in Computer Science
+
 
 
